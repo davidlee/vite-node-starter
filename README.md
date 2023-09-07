@@ -20,3 +20,14 @@ Some defining features of a roguelike:
  - A lot of what you discover is consistent within one "run" but will be randomly regenerated if you die. 
    Just because drinking a green potion heals you now doesn't mean it won't turn your next character into a statue.
 
+## What we care about
+
+You won't have to type. You'll be pairing with another developer, and be "navigating" - you direct them, talk aloud through the 
+problems you encounter and potential solutions.
+
+We want to get a sense of how you think, how you solve problems, how you like working with other developers, and how you communicate.
+
+We don't expect you to finish the game, or even necessarily complete a feature. 
+
+Have fun, and enjoy the process! We want to enjoy work, and hope you do too.
+:
